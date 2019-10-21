@@ -1,0 +1,5 @@
+Black: #253031
+Dark Orange: #B49082
+Light Orange: #F1AB86
+Orange: #EE6352
+White: #EAEAEA
