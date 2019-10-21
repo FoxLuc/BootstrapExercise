@@ -6,7 +6,7 @@ White: #EAEAEA
 
 FROM IMAGE:
 Orange: #AB744E
+Orange-Red: #652408
 Grey: #242621
-Green: #6E7402
 Black: #090907
 White: #E6EEF0
